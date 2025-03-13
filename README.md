@@ -1,4 +1,4 @@
-# PBLauncher Tool
+# PBLauncher_Tool
 
 - Create an XML file with the .dat extension with all the information about the client files
 
